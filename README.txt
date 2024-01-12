@@ -1,1 +1,1 @@
-(here)[https://gabillan.github.io/game]
+https://gabillan.github.io/game
